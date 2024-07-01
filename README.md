@@ -15,6 +15,5 @@ A simple calculator application built using Android with Kotlin.
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mdabdulazizzisan/Just-Calculator
+1. Download the apk file from:
+       https://drive.google.com/file/d/1tFFEQetarbicwlihFRDDYaLGG_RxBRGI/view?usp=sharing
