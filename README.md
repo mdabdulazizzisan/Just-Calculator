@@ -10,7 +10,7 @@ You can contribute if you want to.
 ## Download APK from here
 
  - [Just Calculator](https://github.com/mdabdulazizzisan/Just-Calculator/releases/tag/v0.1)
- - 
+   
 ## Acknowledgements
 
  - [Android Knowledge Calculator App](https://youtu.be/PtvQwaUdYdw?si=yH4d2Vebu9qzoJ1y)
